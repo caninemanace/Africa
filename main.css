@@ -86,7 +86,6 @@ button{
     font-weight: bold;
     text-align: center;
 }
-
 button span{
     color: #009688;
     background-color: #009688;
@@ -132,8 +131,6 @@ button:hover{
 .card h3{
     margin-bottom: 10px;
 }
-
-/* footer */
 .site-footer{
     margin-top: 100px;
     padding: 22px 0 30px;
